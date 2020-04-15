@@ -1,0 +1,4 @@
+folder1\1.0-SNAPSHOT\file1-1.0-SNAPSHOT.jar
+folder2\1.0-SNAPSHOT\file2-1.0-SNAPSHOT.jar
+folder3\1.0-SNAPSHOT\file3-1.0-SNAPSHOT.jar
+folder4\1.0-SNAPSHOT\file4-1.0-SNAPSHOT.jar
